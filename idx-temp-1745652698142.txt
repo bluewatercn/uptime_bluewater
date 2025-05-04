@@ -1,1 +1,1 @@
- 09:08:33 up 11:35,  1 user,  load average: 3.22, 2.97, 2.70
+ 09:09:04 up 11:35,  1 user,  load average: 1.87, 2.65, 2.61
